@@ -8,6 +8,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@tinymce/tinymce-vue": "^4.0.0",
     "core-js": "^3.6.5",
     "node-sass": "^5.0.0",
     "primeflex": "^2.0.0",
